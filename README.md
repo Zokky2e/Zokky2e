@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zokky2e
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a personal planner web application
 - 📫 How to reach me? Jump into my dm's
 
 <!---

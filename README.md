@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zokky2e
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React
+- 💼 Mono Software 
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me? Jump into my dm's
 
 <!---

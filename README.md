@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zokky2e
-- 💼 Mono Software
-- 🅰️ Angular 2 developer
-- 🌱 I’m currently learning Laravel
+- 👨🏻‍💻 Full-stack developer
+- 🌱 I’m currently learning Python and paralel programming
 - 📫 How to reach me? Jump into my dm's
 
 <!---

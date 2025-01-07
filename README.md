@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zokky2e
 - 👨🏻‍💻 Full-stack developer
-- 🌱 I’m currently learning Python and paralel programming
+- 🌱 I’m currently learning AvaloniaUI and MVVM applications
 - 📫 How to reach me? Jump into my dm's
 
 <!---

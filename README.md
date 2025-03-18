@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zokky2e
 - 👨🏻‍💻 Full-stack developer
-- 🌱 I’m currently learning AvaloniaUI and MVVM applications
+- 🌱 I’m currently learning Unity Game Dev and building a 2D game
 - 📫 How to reach me? Jump into my dm's
 
 <!---
